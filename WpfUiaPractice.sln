@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfUiaPractice", "WpfUiaPractice.csproj", "{9D549C8C-9D88-4935-8B15-492A6CF4153C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiaImplementer", "UiaImplementer\UiaImplementer.csproj", "{B7CE598C-2C98-4EE5-91E0-1C1E3DC44C7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D549C8C-9D88-4935-8B15-492A6CF4153C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D549C8C-9D88-4935-8B15-492A6CF4153C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D549C8C-9D88-4935-8B15-492A6CF4153C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D549C8C-9D88-4935-8B15-492A6CF4153C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CE598C-2C98-4EE5-91E0-1C1E3DC44C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CE598C-2C98-4EE5-91E0-1C1E3DC44C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CE598C-2C98-4EE5-91E0-1C1E3DC44C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CE598C-2C98-4EE5-91E0-1C1E3DC44C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1DAE1FC-A727-4571-A29B-1032F55A02F1}
+	EndGlobalSection
+EndGlobal

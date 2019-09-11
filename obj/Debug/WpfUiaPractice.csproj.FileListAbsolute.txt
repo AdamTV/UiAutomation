@@ -1,0 +1,16 @@
+C:\Users\adams\source\repos\WpfUiaPractice\bin\Debug\WpfUiaPractice.exe.config
+C:\Users\adams\source\repos\WpfUiaPractice\bin\Debug\WpfUiaPractice.exe
+C:\Users\adams\source\repos\WpfUiaPractice\bin\Debug\WpfUiaPractice.pdb
+C:\Users\adams\source\repos\WpfUiaPractice\obj\Debug\MainWindow.g.cs
+C:\Users\adams\source\repos\WpfUiaPractice\obj\Debug\App.g.cs
+C:\Users\adams\source\repos\WpfUiaPractice\obj\Debug\WpfUiaPractice_MarkupCompile.cache
+C:\Users\adams\source\repos\WpfUiaPractice\obj\Debug\WpfUiaPractice_MarkupCompile.lref
+C:\Users\adams\source\repos\WpfUiaPractice\obj\Debug\MainWindow.baml
+C:\Users\adams\source\repos\WpfUiaPractice\obj\Debug\WpfUiaPractice.g.resources
+C:\Users\adams\source\repos\WpfUiaPractice\obj\Debug\WpfUiaPractice.Properties.Resources.resources
+C:\Users\adams\source\repos\WpfUiaPractice\obj\Debug\WpfUiaPractice.csproj.GenerateResource.cache
+C:\Users\adams\source\repos\WpfUiaPractice\obj\Debug\WpfUiaPractice.csproj.CoreCompileInputs.cache
+C:\Users\adams\source\repos\WpfUiaPractice\obj\Debug\WpfUiaPractice.exe
+C:\Users\adams\source\repos\WpfUiaPractice\obj\Debug\WpfUiaPractice.pdb
+C:\Users\adams\source\repos\WpfUiaPractice\bin\Debug\UiaImplementer.dll
+C:\Users\adams\source\repos\WpfUiaPractice\obj\Debug\WpfUiaPractice.csproj.CopyComplete
