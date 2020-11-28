@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -42,7 +41,7 @@ namespace WpfUiaPractice
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             var xmlDoc = new XmlDocument();
-            xmlDoc.Load(@"C:\Users\adams\source\repos\WpfUiaPractice\Person.xml");
+            xmlDoc.Load(@"C:\Users\adams\source\repos\Person.xml");
             //var XmlNodeList = xmlDoc.SelectNodes("/Person");
             var xn = xmlDoc.SelectSingleNode("//person");
             //foreach (XmlNode xn in XmlNodeList)

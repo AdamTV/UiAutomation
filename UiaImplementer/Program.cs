@@ -1,14 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Automation;
 using System.Windows.Forms;
-using UIAutomationClientsideProviders;
 
 namespace UiaImplementer
 {
@@ -107,7 +104,7 @@ namespace UiaImplementer
 
                     // Set focus for input functionality and begin.
                     element.SetFocus();
-
+                  
                     ((ValuePattern)valuePattern).SetValue(value);
                 }
             }

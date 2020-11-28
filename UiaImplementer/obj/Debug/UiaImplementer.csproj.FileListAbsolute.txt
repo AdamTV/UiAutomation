@@ -4,3 +4,9 @@ C:\Users\adams\source\repos\WpfUiaPractice\UiaImplementer\obj\Debug\UiaImplement
 C:\Users\adams\source\repos\WpfUiaPractice\UiaImplementer\bin\Debug\UiaImplementer.dll.config
 C:\Users\adams\source\repos\WpfUiaPractice\UiaImplementer\bin\Debug\UiaImplementer.dll
 C:\Users\adams\source\repos\WpfUiaPractice\UiaImplementer\obj\Debug\UiaImplementer.dll
+C:\Users\adams\source\repos\GitHub\WpfUiaPractice\UiaImplementer\bin\Debug\UiaImplementer.dll.config
+C:\Users\adams\source\repos\GitHub\WpfUiaPractice\UiaImplementer\bin\Debug\UiaImplementer.dll
+C:\Users\adams\source\repos\GitHub\WpfUiaPractice\UiaImplementer\bin\Debug\UiaImplementer.pdb
+C:\Users\adams\source\repos\GitHub\WpfUiaPractice\UiaImplementer\obj\Debug\UiaImplementer.csproj.CoreCompileInputs.cache
+C:\Users\adams\source\repos\GitHub\WpfUiaPractice\UiaImplementer\obj\Debug\UiaImplementer.dll
+C:\Users\adams\source\repos\GitHub\WpfUiaPractice\UiaImplementer\obj\Debug\UiaImplementer.pdb
